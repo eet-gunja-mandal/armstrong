@@ -1,0 +1,5 @@
+﻿  ConsoleApplication11.cpp
+c:\users\rajesh\documents\visual studio 2015\projects\consoleapplication11\consoleapplication11\consoleapplication11.cpp(27): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\rajesh\documents\visual studio 2015\projects\consoleapplication11\consoleapplication11\consoleapplication11.cpp(43): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  ConsoleApplication11.vcxproj -> C:\Users\rajesh\Documents\Visual Studio 2015\Projects\ConsoleApplication11\Debug\ConsoleApplication11.exe
+  ConsoleApplication11.vcxproj -> C:\Users\rajesh\Documents\Visual Studio 2015\Projects\ConsoleApplication11\Debug\ConsoleApplication11.pdb (Full PDB)
